@@ -1,40 +1,43 @@
-<h4>CreatedAt:11th Dec 2021</h4> 
-## Myfirst-NEXT.js
+<h1> Myfirst-NEXT.js</h1>
 
-## Video of the project
-
-https://user-images.githubusercontent.com/95255730/145666137-60685077-4c0a-4cb2-8ba1-671518c5d86b.mov
+<h4>CreatedAt:17th Dec 2021</h4> 
 
 ## Detail of the project
 
-This is HTML Canvas Crash Course in Youtube.
+This project is NEXT.js Crash Course in Youtube.
 
-https://www.youtube.com/watch?v=Yvz_axxWG4Y
+Next.js Crash Course: Laith Harb
+https://www.youtube.com/watch?v=6HTs8HtZMt0
+
+## Screen Shot
+<img src="./images/desktop.png"/>
 
 ## Purpose of the project
 
-Get the knowledge of HTML Canvas Fundamentals
+Get the knowledge of Next.js Fundamentals
 
 ## Demo
 
-https://hiros-dev.github.io/HTML-Canvas/
-(If you move the mouse, show up colorful geometric patterns)
+https://myfirst-next-js-lemon.vercel.app/
 
 ## What did I learn from this project?
 
-<p>HTML Canvas Fundamentals</p>
-<p>Canvas manipulation with Javascript</p>
+<p>Next.js Fundamentals</p>
+<p>How to install Next.js</p>
+<p>How to use Next.js</p>
+<p>How to use Next.js with Bootstrap</p>
+<p>How to deploy Next.js app to Vercel</p>
 
 ## Impressions
 
-HMTL Canvas is very useful for creating game or advanced web site.
-And, HTML Canvas has infinite possibility.
-But of course, it is difficult.
+It is my first Next.js project.
 
-So, I have to practice and practice and practice ✖️ 100 or 1000 times?
-I don't know.
-But, if I can use canvas method efficiently, I can become more advanced programmer definitely.
-So, just practice it.
+Already I know React.js and I am familiar with it.
+So, why am I study Next.js?
+
+Because, in the near future, I think Next.js will take the place of React.js.
+(Or, React.js will evolve from just frontend library to full stack library.)
+
+And, today, it is good timing for learning Next.js for me.
 
 Thank you for reading. And, happy coding!!!
-

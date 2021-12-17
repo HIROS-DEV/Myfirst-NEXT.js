@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h4>CreatedAt:11th Dec 2021</h4> 
+## Myfirst-NEXT.js
 
-## Getting Started
+## Video of the project
 
-First, run the development server:
+https://user-images.githubusercontent.com/95255730/145666137-60685077-4c0a-4cb2-8ba1-671518c5d86b.mov
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Detail of the project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is HTML Canvas Crash Course in Youtube.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+https://www.youtube.com/watch?v=Yvz_axxWG4Y
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Purpose of the project
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Get the knowledge of HTML Canvas Fundamentals
 
-## Learn More
+## Demo
 
-To learn more about Next.js, take a look at the following resources:
+https://hiros-dev.github.io/HTML-Canvas/
+(If you move the mouse, show up colorful geometric patterns)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## What did I learn from this project?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p>HTML Canvas Fundamentals</p>
+<p>Canvas manipulation with Javascript</p>
 
-## Deploy on Vercel
+## Impressions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+HMTL Canvas is very useful for creating game or advanced web site.
+And, HTML Canvas has infinite possibility.
+But of course, it is difficult.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+So, I have to practice and practice and practice ✖️ 100 or 1000 times?
+I don't know.
+But, if I can use canvas method efficiently, I can become more advanced programmer definitely.
+So, just practice it.
+
+Thank you for reading. And, happy coding!!!
+
